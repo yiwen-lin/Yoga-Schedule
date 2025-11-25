@@ -1,0 +1,5 @@
+{
+  "name": "Yoga Schedule Parser",
+  "description": "Automatically parses course schedules from email text and syncs them to Google Calendar.",
+  "requestFramePermissions": []
+}
